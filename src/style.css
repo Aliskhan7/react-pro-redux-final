@@ -1,0 +1,23 @@
+.container{
+    width: 600px;
+    margin: auto;
+}
+
+.header{
+    text-align: center;
+    padding: 10px 0;
+    font-size: 2em;
+    border-bottom: 1px solid lavender;
+}
+
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 20px 10px;
+    border-bottom: 1px solid whitesmoke;
+}
+.title{
+    flex: 1;
+    margin-left: 20px;
+}
